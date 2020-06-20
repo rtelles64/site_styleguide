@@ -1,0 +1,94 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 0 10%;
+}
+
+.container {
+  border: 5px solid hsl(240, 2%, 64%);
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.color-container {
+  width: 100%;
+}
+
+.color-panel {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.chill-red {
+  background-color: hsl(0, 100%, 70%);
+}
+
+.ok-green {
+  background-color: hsl(105, 50%, 70%);
+}
+
+.burning-blue {
+  background-color: hsl(210, 100%, 70%);
+}
+
+.parchment {
+  background-color: hsl(41, 100%, 90%);
+}
+
+.font-panel {
+  width: 45%;
+  display: inline-block;
+}
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.regular {
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.roboto {
+  font-family: 'Roboto', sans-serif;
+}
+
+#side-note {
+    font-size: 15px;
+}
+
+.source-sans-pro {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.gudea {
+  font-family: 'Gudea', sans-serif;
+}
+
+.text-panel h1 {
+  font-weight: 700;
+  font-size: 32px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.text-panel h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.text-panel p {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+}
