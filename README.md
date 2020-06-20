@@ -6,16 +6,16 @@ This is just a simple style guide created using Codecademy's Web Development Car
 
 A sample of preferred colors to use on an example website.
 
-![Color Section](color-section.png "Color Section")
+![Color Section](images/color-section.png "Color Section")
 
 ## Fonts Section
 
 A sample of the different fonts available for the site.
 
-![Fonts Section](font-section.png "Fonts Section")
+![Fonts Section](images/font-section.png "Fonts Section")
 
 ## Text Styles
 
 The specifications for which font to use for which section.
 
-![Text Styles](text-styles.png "Text Styles")
+![Text Styles](images/text-styles.png "Text Styles")
